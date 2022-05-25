@@ -1,2 +1,8 @@
 #исключаем папки
 images/
+node_modules/
+.idea/
+.vscode/
+
+#исключение файлов
+.DS_Store
